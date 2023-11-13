@@ -1,4 +1,4 @@
-package Clases_tp10;
+package TP_N10;
 
 public class Pelicula {
     private String titulo;

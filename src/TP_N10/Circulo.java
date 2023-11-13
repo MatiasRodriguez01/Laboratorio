@@ -1,4 +1,4 @@
-package Clases_tp10;
+package TP_N10;
 import java.lang.Math;
 public class Circulo {
 

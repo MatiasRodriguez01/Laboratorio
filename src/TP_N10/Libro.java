@@ -1,5 +1,4 @@
-package Clases_tp10;
-
+package TP_N10;
 public class Libro {
     private String titulo;
     private String autor;

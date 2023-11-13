@@ -1,4 +1,4 @@
-package Clases_tp10;
+package TP_N10;
 
 public class Ejer_1_2_3{
     public static void main(String[] args) {

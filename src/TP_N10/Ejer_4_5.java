@@ -1,4 +1,4 @@
-package Clases_tp10;
+package TP_N10;
 import java.util.Scanner;
 public class Ejer_4_5 {
     public static void main(String[] args) {
